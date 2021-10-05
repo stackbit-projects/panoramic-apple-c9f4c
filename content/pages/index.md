@@ -61,7 +61,7 @@ sections:
     textAlign: left
     bottomGap: none
     topGap: none
-    contentAlignHoriz: right
+    contentAlignHoriz: left
     testimonials:
       - quote: >-
           “It’s great to see someone taking action while still maintaining a
