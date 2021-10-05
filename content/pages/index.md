@@ -54,7 +54,7 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
   - type: TestimonialsSection
-    variant: variant-b
+    variant: variant-a
     colors: colors-i
     width: full
     height: viewport
