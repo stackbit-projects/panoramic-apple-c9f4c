@@ -57,7 +57,7 @@ sections:
     variant: variant-b
     colors: colors-i
     width: full
-    height: short
+    height: viewport
     textAlign: left
     bottomGap: none
     topGap: none
