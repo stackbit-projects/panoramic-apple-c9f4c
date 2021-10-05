@@ -56,7 +56,7 @@ sections:
   - type: TestimonialsSection
     variant: variant-b
     colors: colors-i
-    width: wide
+    width: full
     height: short
     textAlign: left
     bottomGap: none
