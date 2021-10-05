@@ -73,6 +73,7 @@ sections:
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
     contentWidth: large
+    contentAlignVert: bottom
   - type: CtaSection
     variant: variant-b
     colors: colors-c
