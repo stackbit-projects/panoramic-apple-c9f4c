@@ -58,7 +58,7 @@ sections:
     colors: colors-i
     width: full
     height: viewport
-    textAlign: left
+    textAlign: center
     bottomGap: large
     topGap: none
     contentAlignHoriz: left
