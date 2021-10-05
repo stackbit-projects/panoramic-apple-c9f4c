@@ -27,6 +27,15 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
+      - elementId: ''
+        label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: link
+        type: Link
     feature:
       type: ImageBlock
       url: /images/hero.png
