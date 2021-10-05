@@ -27,11 +27,6 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
     feature:
       type: ImageBlock
       url: /images/hero.png
