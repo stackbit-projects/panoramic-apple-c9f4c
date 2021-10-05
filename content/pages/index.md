@@ -55,7 +55,7 @@ sections:
       - content/pages/blog/post-one.md
   - type: TestimonialsSection
     variant: variant-b
-    colors: colors-f
+    colors: colors-g
     width: wide
     height: short
     textAlign: left
