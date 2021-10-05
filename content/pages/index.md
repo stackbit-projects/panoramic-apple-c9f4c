@@ -59,7 +59,7 @@ sections:
     width: full
     height: viewport
     textAlign: left
-    bottomGap: none
+    bottomGap: large
     topGap: none
     contentAlignHoriz: left
     testimonials:
